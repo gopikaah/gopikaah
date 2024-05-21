@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLMs**
 
-- 🌱 I’m currently learning **Prompt Engineering, Stable diffussion**
+- 🌱 I’m currently learning **Prompt Engineering, Stable diffussion, UI/UX**
 
 - 👯 I’ve worked on **Webscraping, Annotating, OCR, Wireframes(Frontend designing), Object detection etc**
 
